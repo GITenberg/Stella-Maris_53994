@@ -1,0 +1,40 @@
+_repo: Stella-Maris_53994
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wiles, Frank
+    aliases:
+    - Wiles, Frank E.
+    - Wiles, Francis Edmund
+    birthdate: 1881
+    deathdate: 1963
+    gutenberg_agent_id: '24840'
+    url: http://www.gutenberg.org/2009/agents/24840
+creator:
+  author:
+    agent_name: Locke, William John
+    aliases:
+    - Locke, William J. (William John)
+    - Locke, W. J. (William John)
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '1324'
+    url: http://www.gutenberg.org/2009/agents/1324
+    wikipedia: http://en.wikipedia.org/wiki/William_John_Locke
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Invalids -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: Stella Maris
+url: http://www.gutenberg.org/ebooks/53994
